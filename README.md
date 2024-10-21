@@ -21,6 +21,8 @@ This project implements a text-to-image generation AI model using **Garido** and
 
 - Python 3.8+
 - Install dependencies:
-
+```bash
+git clone https://github.com/HarshKochar9008/Text-Search
+```
   ```bash
   pip install -r requirements.txt
